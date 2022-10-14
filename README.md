@@ -3,7 +3,7 @@
 This is my Portfolio project
 
  Learn about HTML / CSS / Bootstrap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
-[Visit Demo Website Hosted by Replit](https://Portfolio.faithalston.repl.co)
+[Visit Demo Website Hosted by Heroku](https://portfolio-faith.herokuapp.com/)
 ## Tech used
 * HTML
 * CSS
